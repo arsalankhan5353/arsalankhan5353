@@ -1,0 +1,55 @@
+<svg width="460" height="300" viewBox="0 0 460 300" xmlns="http://www.w3.org/2000/svg"><defs>
+  <linearGradient id="cgPP" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#ff2d95"/><stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+  <linearGradient id="cgBG" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0a0118"/><stop offset="100%" stop-color="#1c0b3d"/>
+  </linearGradient>
+  <linearGradient id="cgShine" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="48%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="52%" stop-color="#ffffff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="cgGlow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs><rect x="1" y="1" width="458" height="298" rx="20" fill="url(#cgBG)" stroke="rgba(255,110,199,0.28)" stroke-width="1.4"/><text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" letter-spacing="1.5" fill="#c084fc">TOOLS I REACH FOR</text><line x1="24" y1="46" x2="436" y2="46" stroke="rgba(255,110,199,0.28)" stroke-width="1"/>
+        <text x="24" y="76" font-size="12.5" fill="#c9b8e8">Next.js / React</text>
+        <text x="436" y="76" text-anchor="end" font-size="12" font-weight="700" fill="#ff6ec7" opacity="0">92%
+          <animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.3s" fill="freeze"/>
+        </text>
+        <rect x="24" y="84" width="366" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+        <rect x="24" y="84" width="0" height="9" rx="4.5" fill="#ff6ec7" filter="url(#cgGlow)">
+          <animate attributeName="width" from="0" to="336.7" begin="0.30s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        </rect>
+        <text x="24" y="116" font-size="12.5" fill="#c9b8e8">JavaScript</text>
+        <text x="436" y="116" text-anchor="end" font-size="12" font-weight="700" fill="#ff6ec7" opacity="0">85%
+          <animate attributeName="opacity" from="0" to="1" begin="1.38s" dur="0.3s" fill="freeze"/>
+        </text>
+        <rect x="24" y="124" width="366" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+        <rect x="24" y="124" width="0" height="9" rx="4.5" fill="#a855f7" filter="url(#cgGlow)">
+          <animate attributeName="width" from="0" to="311.1" begin="0.48s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        </rect>
+        <text x="24" y="156" font-size="12.5" fill="#c9b8e8">Python / AI</text>
+        <text x="436" y="156" text-anchor="end" font-size="12" font-weight="700" fill="#ff6ec7" opacity="0">78%
+          <animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.3s" fill="freeze"/>
+        </text>
+        <rect x="24" y="164" width="366" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+        <rect x="24" y="164" width="0" height="9" rx="4.5" fill="#ff6ec7" filter="url(#cgGlow)">
+          <animate attributeName="width" from="0" to="285.5" begin="0.66s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        </rect>
+        <text x="24" y="196" font-size="12.5" fill="#c9b8e8">After Effects</text>
+        <text x="436" y="196" text-anchor="end" font-size="12" font-weight="700" fill="#ff6ec7" opacity="0">74%
+          <animate attributeName="opacity" from="0" to="1" begin="1.74s" dur="0.3s" fill="freeze"/>
+        </text>
+        <rect x="24" y="204" width="366" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+        <rect x="24" y="204" width="0" height="9" rx="4.5" fill="#a855f7" filter="url(#cgGlow)">
+          <animate attributeName="width" from="0" to="270.8" begin="0.84s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        </rect>
+        <text x="24" y="236" font-size="12.5" fill="#c9b8e8">HTML &amp; CSS</text>
+        <text x="436" y="236" text-anchor="end" font-size="12" font-weight="700" fill="#ff6ec7" opacity="0">88%
+          <animate attributeName="opacity" from="0" to="1" begin="1.92s" dur="0.3s" fill="freeze"/>
+        </text>
+        <rect x="24" y="244" width="366" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+        <rect x="24" y="244" width="0" height="9" rx="4.5" fill="#ff6ec7" filter="url(#cgGlow)">
+          <animate attributeName="width" from="0" to="322.1" begin="1.02s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        </rect></svg>

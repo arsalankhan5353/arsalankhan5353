@@ -1,0 +1,42 @@
+<svg width="460" height="300" viewBox="0 0 460 300" xmlns="http://www.w3.org/2000/svg"><defs>
+  <linearGradient id="cgPP" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#ff2d95"/><stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+  <linearGradient id="cgBG" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0a0118"/><stop offset="100%" stop-color="#1c0b3d"/>
+  </linearGradient>
+  <linearGradient id="cgShine" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="48%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="52%" stop-color="#ffffff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="cgGlow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs><rect x="1" y="1" width="458" height="298" rx="20" fill="url(#cgBG)" stroke="rgba(255,110,199,0.28)" stroke-width="1.4"/><text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" letter-spacing="1.5" fill="#c084fc">DEV SNAPSHOT</text><line x1="24" y1="46" x2="436" y2="46" stroke="rgba(255,110,199,0.28)" stroke-width="1"/><circle cx="100" cy="175" r="62" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="12"/><circle cx="100" cy="175" r="62" fill="none" stroke="url(#cgPP)" stroke-width="12" stroke-linecap="round"
+      transform="rotate(-90 100 175)" stroke-dasharray="389.6" stroke-dashoffset="389.6" filter="url(#cgGlow)">
+      <animate attributeName="stroke-dashoffset" from="389.6" to="0.0" begin="0.3s" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </circle><text x="100" y="171" text-anchor="middle" font-size="26" font-weight="800" fill="#f3e8ff" opacity="0">100%<animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/></text><text x="100" y="193" text-anchor="middle" font-size="11" fill="#8f7bb3" opacity="0">Always Building<animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.4s" fill="freeze"/></text><g opacity="0">
+          <animateTransform attributeName="transform" type="translate" from="40 0" to="0 0" begin="0.5s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+          <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.5s" fill="freeze"/>
+          <circle cx="210" cy="77" r="3.5" fill="#ff6ec7"/>
+          <text x="224" y="82" font-size="12.5" font-weight="700" fill="#c084fc">Focus</text>
+          <text x="224" y="100" font-size="12.5" fill="#c9b8e8">AI-Powered Web Projects</text>
+        </g><g opacity="0">
+          <animateTransform attributeName="transform" type="translate" from="40 0" to="0 0" begin="0.6799999999999999s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+          <animate attributeName="opacity" from="0" to="1" begin="0.6799999999999999s" dur="0.5s" fill="freeze"/>
+          <circle cx="210" cy="123" r="3.5" fill="#ff6ec7"/>
+          <text x="224" y="128" font-size="12.5" font-weight="700" fill="#c084fc">Learning</text>
+          <text x="224" y="146" font-size="12.5" fill="#c9b8e8">Next.js, React &amp; AI</text>
+        </g><g opacity="0">
+          <animateTransform attributeName="transform" type="translate" from="40 0" to="0 0" begin="0.86s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+          <animate attributeName="opacity" from="0" to="1" begin="0.86s" dur="0.5s" fill="freeze"/>
+          <circle cx="210" cy="169" r="3.5" fill="#ff6ec7"/>
+          <text x="224" y="174" font-size="12.5" font-weight="700" fill="#c084fc">Craft</text>
+          <text x="224" y="192" font-size="12.5" fill="#c9b8e8">Modern UI / UX</text>
+        </g><g opacity="0">
+          <animateTransform attributeName="transform" type="translate" from="40 0" to="0 0" begin="1.04s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+          <animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.5s" fill="freeze"/>
+          <circle cx="210" cy="215" r="3.5" fill="#ff6ec7"/>
+          <text x="224" y="220" font-size="12.5" font-weight="700" fill="#c084fc">Studio</text>
+          <text x="224" y="238" font-size="12.5" fill="#c9b8e8">Video Editing · After Effects</text>
+        </g></svg>

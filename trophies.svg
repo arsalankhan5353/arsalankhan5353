@@ -1,0 +1,105 @@
+<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg"><defs>
+  <linearGradient id="cgPP" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#ff2d95"/><stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+  <linearGradient id="cgBG" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0a0118"/><stop offset="100%" stop-color="#1c0b3d"/>
+  </linearGradient>
+  <linearGradient id="cgShine" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="48%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="52%" stop-color="#ffffff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="cgGlow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<clipPath id="trCard0"><rect x="0" y="0" width="118" height="130" rx="14"/></clipPath></defs><rect x="1" y="1" width="758" height="218" rx="20" fill="url(#cgBG)" stroke="rgba(255,110,199,0.28)" stroke-width="1.4"/><text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" letter-spacing="1.5" fill="#c084fc">MILESTONES</text><line x1="24" y1="46" x2="736" y2="46" stroke="rgba(255,110,199,0.28)" stroke-width="1"/>
+      <g transform="translate(1.0,62)" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="1.0 80;1.0 62" keyTimes="0;1" begin="0.25s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" begin="0.25s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.34 1.2 0.4 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.4s" fill="freeze"/>
+        <rect width="118" height="130" rx="14" fill="rgba(255,255,255,0.045)" stroke="rgba(255,110,199,0.28)" stroke-width="1.2"/>
+        <circle cx="59.0" cy="42" r="24" fill="none" stroke="#ff6ec7" stroke-width="3" filter="url(#cgGlow)"/>
+        <text x="59.0" y="50" text-anchor="middle" font-size="16" font-weight="800" fill="#ff6ec7">S</text>
+        <text x="59.0" y="90" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">Builder</text>
+        <text x="59.0" y="105" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff"></text>
+        <g clip-path="url(#trCard0)">
+          <rect x="-140" y="0" width="60" height="130" fill="url(#cgShine)" transform="skewX(-16)">
+            <animate attributeName="x" from="-140" to="198" begin="1.00s" dur="1.6s" fill="freeze"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(129.0,62)" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="129.0 80;129.0 62" keyTimes="0;1" begin="0.4s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" begin="0.4s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.34 1.2 0.4 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.4s" fill="freeze"/>
+        <rect width="118" height="130" rx="14" fill="rgba(255,255,255,0.045)" stroke="rgba(255,110,199,0.28)" stroke-width="1.2"/>
+        <circle cx="59.0" cy="42" r="24" fill="none" stroke="#a855f7" stroke-width="3" filter="url(#cgGlow)"/>
+        <text x="59.0" y="50" text-anchor="middle" font-size="16" font-weight="800" fill="#a855f7">S</text>
+        <text x="59.0" y="90" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">AI</text>
+        <text x="59.0" y="105" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">Explorer</text>
+        <g clip-path="url(#trCard0)">
+          <rect x="-140" y="0" width="60" height="130" fill="url(#cgShine)" transform="skewX(-16)">
+            <animate attributeName="x" from="-140" to="198" begin="1.15s" dur="1.6s" fill="freeze"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(257.0,62)" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="257.0 80;257.0 62" keyTimes="0;1" begin="0.55s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" begin="0.55s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.34 1.2 0.4 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.4s" fill="freeze"/>
+        <rect width="118" height="130" rx="14" fill="rgba(255,255,255,0.045)" stroke="rgba(255,110,199,0.28)" stroke-width="1.2"/>
+        <circle cx="59.0" cy="42" r="24" fill="none" stroke="#ff6ec7" stroke-width="3" filter="url(#cgGlow)"/>
+        <text x="59.0" y="50" text-anchor="middle" font-size="16" font-weight="800" fill="#ff6ec7">A</text>
+        <text x="59.0" y="90" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">UI/UX</text>
+        <text x="59.0" y="105" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">Fan</text>
+        <g clip-path="url(#trCard0)">
+          <rect x="-140" y="0" width="60" height="130" fill="url(#cgShine)" transform="skewX(-16)">
+            <animate attributeName="x" from="-140" to="198" begin="1.30s" dur="1.6s" fill="freeze"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(385.0,62)" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="385.0 80;385.0 62" keyTimes="0;1" begin="0.7s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" begin="0.7s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.34 1.2 0.4 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.4s" fill="freeze"/>
+        <rect width="118" height="130" rx="14" fill="rgba(255,255,255,0.045)" stroke="rgba(255,110,199,0.28)" stroke-width="1.2"/>
+        <circle cx="59.0" cy="42" r="24" fill="none" stroke="#a855f7" stroke-width="3" filter="url(#cgGlow)"/>
+        <text x="59.0" y="50" text-anchor="middle" font-size="16" font-weight="800" fill="#a855f7">A</text>
+        <text x="59.0" y="90" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">Video</text>
+        <text x="59.0" y="105" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">Storyteller</text>
+        <g clip-path="url(#trCard0)">
+          <rect x="-140" y="0" width="60" height="130" fill="url(#cgShine)" transform="skewX(-16)">
+            <animate attributeName="x" from="-140" to="198" begin="1.45s" dur="1.6s" fill="freeze"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(513.0,62)" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="513.0 80;513.0 62" keyTimes="0;1" begin="0.85s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" begin="0.85s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.34 1.2 0.4 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.4s" fill="freeze"/>
+        <rect width="118" height="130" rx="14" fill="rgba(255,255,255,0.045)" stroke="rgba(255,110,199,0.28)" stroke-width="1.2"/>
+        <circle cx="59.0" cy="42" r="24" fill="none" stroke="#ff6ec7" stroke-width="3" filter="url(#cgGlow)"/>
+        <text x="59.0" y="50" text-anchor="middle" font-size="16" font-weight="800" fill="#ff6ec7">S</text>
+        <text x="59.0" y="90" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">Collaborator</text>
+        <text x="59.0" y="105" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff"></text>
+        <g clip-path="url(#trCard0)">
+          <rect x="-140" y="0" width="60" height="130" fill="url(#cgShine)" transform="skewX(-16)">
+            <animate attributeName="x" from="-140" to="198" begin="1.60s" dur="1.6s" fill="freeze"/>
+          </rect>
+        </g>
+      </g>
+      <g transform="translate(641.0,62)" opacity="0">
+        <animateTransform attributeName="transform" type="translate" values="641.0 80;641.0 62" keyTimes="0;1" begin="1.0s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" begin="1.0s" dur="0.5s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.34 1.2 0.4 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.4s" fill="freeze"/>
+        <rect width="118" height="130" rx="14" fill="rgba(255,255,255,0.045)" stroke="rgba(255,110,199,0.28)" stroke-width="1.2"/>
+        <circle cx="59.0" cy="42" r="24" fill="none" stroke="#a855f7" stroke-width="3" filter="url(#cgGlow)"/>
+        <text x="59.0" y="50" text-anchor="middle" font-size="16" font-weight="800" fill="#a855f7">SS</text>
+        <text x="59.0" y="90" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">Lifelong</text>
+        <text x="59.0" y="105" text-anchor="middle" font-size="11.5" font-weight="700" fill="#f3e8ff">Learner</text>
+        <g clip-path="url(#trCard0)">
+          <rect x="-140" y="0" width="60" height="130" fill="url(#cgShine)" transform="skewX(-16)">
+            <animate attributeName="x" from="-140" to="198" begin="1.75s" dur="1.6s" fill="freeze"/>
+          </rect>
+        </g>
+      </g></svg>
